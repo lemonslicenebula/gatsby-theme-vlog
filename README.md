@@ -21,8 +21,8 @@ It includes:
     ```js
     module.exports = {
     siteMetadata: {
-        title: "My Countdown",
-        author: "Rafael Quintanilha"
+        title: "",
+        author: "",
      },
     plugins: [
      `@lemonslicenebula/gatsby-theme-vlog`,
