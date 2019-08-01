@@ -5,9 +5,10 @@
  */
 export default {
   colors: {
-    text: "#232129",
-    background: "#fff",
-    primary: "#639",
+    text: "#fefefe",
+    background: "#000",
+    primary: "#E582CF",
+    secondary: "1A11E5",
   },
   fonts: {
     default:
@@ -30,8 +31,7 @@ export default {
       lineHeight: "text",
     },
     Header: {
-      backgroundColor: "primary",
-      color: "background",
+      color: "text",
       fontWeight: "bold",
       margin: 0,
       span: {
