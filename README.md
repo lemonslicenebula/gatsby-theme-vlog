@@ -21,8 +21,8 @@ It includes:
     ```js
     module.exports = {
     siteMetadata: {
-        title: "",
-        author: "",
+        title: "title",
+        author: "author",
      },
     plugins: [
      `@lemonslicenebula/gatsby-theme-vlog`,
