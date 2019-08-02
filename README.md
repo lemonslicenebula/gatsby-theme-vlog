@@ -32,7 +32,7 @@ It includes:
 
 4.  Adding pages
     Create an ```.mdx``` file in your ```/src/pages/``` directory.
-    For example ```/src/pages/index.mdx to create the home page.
+    For example ```/src/pages/index.mdx``` to create the home page.
 
 5.  Run ```yarn develop``` and go to http://localhost:8000
     
